@@ -1,0 +1,21 @@
+{
+  "name": "react_geek_university",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioCDias/React_Geek_University.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JulioCDias/React_Geek_University/issues"
+  },
+  "homepage": "https://github.com/JulioCDias/React_Geek_University#readme"
+}
