@@ -59,7 +59,3 @@ const fatorial = (n) => {
 };
 
 console.log(fatorial(5)); // Output: 120
-
-() => {
-  console.log("Função anônima usando Arrow Function");
-} ();; // Output: Função anônima usando Arrow Function
